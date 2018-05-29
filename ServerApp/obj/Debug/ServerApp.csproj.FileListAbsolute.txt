@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
